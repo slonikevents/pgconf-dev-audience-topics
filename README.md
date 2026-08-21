@@ -15,10 +15,10 @@ We use GitHub Discussions to collect ideas, discussion, and community interest.
 
 ## How it works
 
-1. Search a discussion that covers the topic of your interest in the [Topic Requests](https://github.com/ashutosh-bapat/pgconf-dev-audience-topics/discussions/categories/topic-requests)
+1. Search a discussion that covers the topic of your interest in the [Topic Requests](https://github.com/slonikevents/pgconf-dev-audience-topics/discussions/categories/topic-requests)
     1. Upvote on the topics you found
     1. If you would like to suggest improvements/modications, add comments
-1. Create a discussion in the [Topic Requests](https://github.com/ashutosh-bapat/pgconf-dev-audience-topics/discussions/categories/topic-requests) with your topic, if it's not already covered by some other discussion.
+1. Create a discussion in the [Topic Requests](https://github.com/slonikevents/pgconf-dev-audience-topics/discussions/categories/topic-requests) with your topic, if it's not already covered by some other discussion.
     1. Describe the topic you want to see at pgconf.dev.
     1. Explain why the topic is relevant to the event, timely, and useful to the intended audience.
     1. Suggest one or more speakers who may be a good fit for the topic.
@@ -50,6 +50,6 @@ GitHub Discussions is used to surface community demand and identify topics worth
 
 ## Helpful documents
 
-- [Topic Requests](https://github.com/ashutosh-bapat/pgconf-dev-audience-topics/discussions/categories/topic-requests)
+- [Topic Requests](https://github.com/slonikevents/pgconf-dev-audience-topics/discussions/categories/topic-requests)
 - [Topic request template](docs/topic-request-template.md)
 - [Moderation guidelines](docs/moderation-guidelines.md)
